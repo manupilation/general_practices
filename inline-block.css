@@ -1,0 +1,34 @@
+.inline-block {
+  background-color: brown;
+  height: 400px;
+}
+
+.block-inline-list {
+  padding: 20px;
+  background-color: yellow;
+  height: 50%;
+}
+
+.block-inline-list li {
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+}
+
+.l1 {
+  background-color: red;
+}
+
+.l2 {
+  background-color: orange;
+}
+
+.l3 {
+  background-color: seashell;
+}
+
+.l4 {
+  display: block !important;
+  background-color: blue;
+}
+
