@@ -1,0 +1,13 @@
+.flex {
+  display: flex;
+  height: 400px;
+  background-color: cyan;
+  gap: 40px;
+  padding-left: 40px;
+}
+
+.flex div {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+}
