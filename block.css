@@ -16,3 +16,17 @@
   background-color: #fea;
   padding: 16px 12px;
 }
+
+.block ul {
+  display: block;
+  padding: 60px 40px;
+  background-color: red;
+}
+
+.block ul li {
+  display: block;
+  background-color: #fea;
+  margin: 10px 20px;
+  width: 400px;
+  height: 20px;
+}
