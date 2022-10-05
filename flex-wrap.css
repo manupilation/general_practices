@@ -1,0 +1,14 @@
+.flex-wrap {
+  display: flex;
+  height: 400px;
+  gap: 40px;
+  padding-left: 40px;
+  background-color: darkolivegreen;
+  flex-wrap: wrap;
+}
+
+.flex-wrap div {
+  height: 100px;
+  min-width: 500px;
+  background-color: indigo;
+}
